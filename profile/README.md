@@ -1,0 +1,5 @@
+<img src="https://github.com/aiot-lab/.github/assets/85426/fcf63c25-ace2-4409-a4f2-91e0fae9a89d" width="500">
+
+Welcome to HKU AIoT Lab! We have an **A**mazing **I**nterest-group **o**f **T**alents working on **A**dvanced **I**nnovations **o**f **T**echnologies for the **A**rtificial **I**ntelligence **o**f **T**hings, in the [Department of Computer Science](https://www.cs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). We build ubiquitous sensing AI on billions of connected things around us to shape a smarter space for a better life. 
+
+Check out [our website](https://aiot.hku.hk/).
